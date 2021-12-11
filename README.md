@@ -1,0 +1,2 @@
+# SA-calc
+Satisfactory calculator
